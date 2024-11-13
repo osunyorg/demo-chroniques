@@ -5,4 +5,8 @@ items:
   target: "/faits/"
   kind: page
   children: []
+- title: Chroniques ?
+  target: "/chroniques/"
+  kind: page
+  children: []
 
