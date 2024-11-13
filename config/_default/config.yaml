@@ -11,3 +11,7 @@ params:
   logo:
     header: ''
     footer: ''
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
