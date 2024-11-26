@@ -5,8 +5,10 @@ items:
   target: "/faits/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Chroniques ?
   target: "/chroniques/"
   kind: page
   children: []
+  file: content/fr/pages/chroniques/_index.html
 
