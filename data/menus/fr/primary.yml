@@ -5,10 +5,12 @@ items:
   target: "/faits/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Chroniques ?
   target: "/chroniques/"
   kind: page
   children: []
+  path: "/pages/chroniques"
   file: content/fr/pages/chroniques/_index.html
 
