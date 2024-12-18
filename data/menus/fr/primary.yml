@@ -4,12 +4,14 @@ items:
 - title: Faits
   target: "/faits/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Chroniques ?
   target: "/chroniques/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/chroniques"
   file: content/fr/pages/chroniques/_index.html
