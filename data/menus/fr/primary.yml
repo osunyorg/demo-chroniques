@@ -2,17 +2,21 @@
 title: Menu principal
 items:
 - title: Faits
+  slug: faits
   target: "/faits/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Chroniques ?
+  slug: chroniques
   target: "/chroniques/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/chroniques"
   file: content/fr/pages/chroniques/_index.html
 
